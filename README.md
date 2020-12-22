@@ -1,2 +1,2 @@
 # OKR-Lab3
-[]!(img/HTML Checker.png)
+![](https://github.com/dashalichman01/OKR-Lab3/blob/gh-pages/img/HTML%20Checker.png)
